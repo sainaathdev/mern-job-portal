@@ -26,7 +26,7 @@ app.use(cookieParser())
 //     })
 // })
 const corsOptions = {
-    origin:'http://localhost:5173',
+    origin:'https://mern-job-portal-sj6j.onrender.com',
     credentials:true
 }
 
